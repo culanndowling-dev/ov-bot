@@ -1,0 +1,18 @@
+{
+  "approved_models": [
+    {
+      "make": "BMW",
+      "model": "M3",
+      "year": "2020",
+      "mass_produced": true
+    },
+    {
+      "make": "Ford",
+      "model": "Explorer",
+      "year": "2022",
+      "mass_produced": true
+    }
+  ],
+  "pending": [],
+  "user_registry": {}
+}

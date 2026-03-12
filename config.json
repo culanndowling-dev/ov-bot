@@ -1,0 +1,54 @@
+{
+  "guild_id": 0,
+  "bot_status": "OpenVille RP | /help",
+  "default_role_id": 0,
+  "verified_role_id": 0,
+  "muted_role_id": 0,
+  "session_ping_role_id": 0,
+  "staff_roles": [0],
+  "log_channels": {
+    "general": 0,
+    "moderation": 0,
+    "reports": 0,
+    "vehicles": 0,
+    "sessions": 0,
+    "joins_leaves": 0
+  },
+  "welcome": {
+    "enabled": true,
+    "channel_id": 0,
+    "message": "Welcome to OpenVille, {mention}! Press the button below to verify and read the rules.",
+    "rules_url": "https://discord.com/channels/your-server/rules-message-link"
+  },
+  "verification": {
+    "enabled": true,
+    "captcha_enabled": false
+  },
+  "moderation": {
+    "warn_thresholds": {
+      "2": "mute",
+      "3": "kick",
+      "5": "ban"
+    },
+    "clear_limit": 100
+  },
+  "economy": {
+    "daily_amount": 250,
+    "work_min": 100,
+    "work_max": 300,
+    "starting_balance": 500
+  },
+  "sessions": {
+    "default_types": ["Public RP", "Patrol RP", "Training", "Event"],
+    "announcement_color": 3447003
+  },
+  "suggestions": {
+    "channel_id": 0
+  },
+  "reaction_roles": {
+    "enabled": false,
+    "channel_id": 0,
+    "message": "Choose your roles:",
+    "roles": []
+  }
+}
